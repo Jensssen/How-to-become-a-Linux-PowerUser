@@ -11,7 +11,7 @@ alias la='ls -A'
 alias l='ls -CF'
 ```
 
-This alias triggers a "ls" command when ever I enter a new directory. Therefore, I know the containt folder and file names alway and type less ls myself. 
+This alias triggers a "ls" command when ever I enter a new directory. Therefore, I know the contained folder and file names alway and type less ls myself. 
 ```
 chpwd() { ls }
 ```
@@ -24,7 +24,7 @@ After you installed it, you can search your command history by using ctrl+r. It 
 
 # ZSH and oh-my-zsh
 ## Wd
-"wd" allows you to bookmark working directories. In combination, with the autosuggestion plugin, it is super powerfull to navigate quickly in your terminal. 
+"wd" allows you to bookmark working directories. In combination, with the autosuggestion plugin, it is super powerful to navigate quickly in your terminal. 
 Use command such as:
 ```
 wd add "name" to bookmark a directory
@@ -34,7 +34,7 @@ wd rm "name" to remove a bookmark
 ```
 
 ## zsh-autosuggestions
-A plugin that enables autocompletion in you terminal. Probably one of the most important plugins, I have every tested. 
+A plugin that enables autocompletion in your terminal. Probably one of the most important plugins I have ever used. 
 
 [HOW TO INSTALL](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md) 
 
