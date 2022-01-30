@@ -31,3 +31,16 @@ Here is an example of my current prompt:
 ![My Starship prompt](../images/starship.png)
 I have configured it in a way that it shows the git status, the python version, the currently activated virtual environment
 the currently logged in gcp project and its region. 
+
+# Some helpful aliases
+Some aliases, that I added to my .bashrc
+```
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+```
+This alias triggers a "ls" command when ever I enter a new directory. 
+Therefore, I know the contained folder and file names already after moving into a new dir without using ls all the time. 
+```
+chpwd() { ls }
+```
