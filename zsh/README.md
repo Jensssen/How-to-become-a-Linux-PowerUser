@@ -33,3 +33,10 @@ wd list to list all bookmarks
 wd "name" to open a bookmarked directory
 wd rm "name" to remove a bookmark
 ```
+
+## pp_json
+`pp_json` allows you to pretty print the output of a curl command that returns a json formatted string. 
+Just add it to your list of plugins and append the command like the following to your curl command:
+```
+curl GET api/url | pp_json
+```
