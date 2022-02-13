@@ -13,6 +13,7 @@ Most used keyboard shortcuts are:
 | ctrl+shift+w | Close current terminal |
 
 ![My Terminator](../images/terminator.png)
+You should be able to install it by running `sudo apt-get install terminator` (On Linux).
 
 # fzf
 One of the most important Plugins I use every day. 
