@@ -16,9 +16,9 @@ Most used keyboard shortcuts are:
 You should be able to install it by running `sudo apt-get install terminator` (On Linux).
 
 # fzf
-One of the most important Plugins I use every day. 
-After you installed it, you can search your command history by using ctrl+r. 
-It helps you find commands, you have used a long time ago, but you still remember parts of the command.
+One of the most important Tools I use every day. FZF is a fuzzy search tool and one of the most important Tools I use every day.
+After you installed it, you can search your command history much easier. `ctrl+r` now shows a much easier overview of previously used commands.  
+Therefore, it helps you to find commands, you have used a long time ago, if you still remember parts of the command. The same fuzzy search can also be applied to directory search, by using the `ctrl+t` command. 
 
 [HOW TO INSTALL](https://github.com/junegunn/fzf#installation)
 
