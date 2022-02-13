@@ -22,6 +22,7 @@ It helps you find commands, you have used a long time ago, but you still remembe
 
 [HOW TO INSTALL](https://github.com/junegunn/fzf#installation)
 
+Add `[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh` to your `.zshrc` or the equivalent to your `.bashrc` in order to source it on terminal start.
 
 # Starship
 The minimal, blazing-fast, and infinitely customizable prompt for any shell!
