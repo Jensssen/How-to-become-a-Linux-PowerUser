@@ -34,6 +34,15 @@ Here is an example of my current prompt:
 I have configured it in a way that it shows the git status, the python version, the currently activated virtual environment
 the currently logged in gcp project and its region. 
 
+# Terminal Theme
+Install the Gnome Dracula theme (Looks better than the standard terminal theme)
+```commandline
+sudo apt-get install dconf-cli
+git clone https://github.com/dracula/gnome-terminal
+cd gnome-terminal
+./install.sh
+```
+
 # Some helpful aliases and commands
 Some aliases, that I added to my .zshar/.bashrc.
 ```
