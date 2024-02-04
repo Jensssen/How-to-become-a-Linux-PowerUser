@@ -42,6 +42,10 @@ git clone https://github.com/dracula/gnome-terminal
 cd gnome-terminal
 ./install.sh
 ```
+Alternatively you can install the catppuccin gnome-theme by running: 
+```commandline
+curl -L https://raw.githubusercontent.com/catppuccin/gnome-terminal/v0.2.0/install.py | python3 -
+```
 
 # Some helpful aliases and commands
 Some aliases, that I added to my .zshar/.bashrc.
@@ -99,3 +103,5 @@ This will overwrite the content of out.txt.
 command >> out.txt
 ```
 This will append the content to out.txt, if the file already exists.
+
+
